@@ -1,7 +1,7 @@
 ### Opa, eu sou o Diego Aguiar, mas pode me chamar de Diegão, se quiser.. 👋
 
 - 🔭 Cursando Análise e Desenvolvimento De Sistemas
-- 🌱 Estudando Python
+- 🌱 Estudando mais Java e React atualmente.
 - ⚡ Apaixonado por Jogos, Carros e Tecnologia
 
 <div align="center">
